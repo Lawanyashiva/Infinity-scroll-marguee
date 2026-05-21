@@ -1,0 +1,8 @@
+{
+    "name": "infinite-projects-marquee",
+    "private": true,
+    "scripts": {
+        "dev": "cd react && npm run dev",
+        "build": "cd react && npm run build"
+    }
+}
